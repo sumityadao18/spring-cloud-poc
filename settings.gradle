@@ -10,3 +10,5 @@
 rootProject.name = 'SpringCloud'
 
 include ":microserviceOne"
+include ":microserviceTwo"
+
