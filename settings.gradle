@@ -12,4 +12,4 @@ rootProject.name = 'SpringCloud'
 include ":microserviceOne"
 include ":microserviceTwo"
 include ":EurekaServer"
-
+include ":zuulProxyServer"
